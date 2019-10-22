@@ -1,0 +1,24 @@
+{ Analytica Model HW5_Model, encoding="UTF-8" }
+SoftwareVersion 5.2.9
+
+
+{ System Variables with non-default values: }
+SampleSize := 1000
+TypeChecking := 1
+Checking := 1
+SaveOptions := 2
+SaveValues := 0
+
+NodeInfo FormNode: 1,0,0,1,0,0,0,,0,0,,0,0
+
+
+
+Model HW5_Model
+Title: HW5 Model
+Author: Aurelia Augusta, Ryan Kenny, Victor Rodriguez, Katrina Ramirez-Meyers
+Date: Tue, Oct 22, 2019 9:19 AM
+FontStyle: Arial,15
+FileInfo: 0,Model HW5_Model,2,2,0,0,C:\Users\hyoka\Projects\19701-HW5\HW5 Model.ana
+
+Close HW5_Model
+
